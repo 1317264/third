@@ -1,0 +1,7 @@
+数据库名sms是student management system的缩写
+运行Main类，依照说明操作即可
+学号、名字、班级均为20长度varchar类型
+考虑到学号有0开头，所以用varchar类型，因此可以输非数字内容
+查询的sql语句必须把num,name,class都检索出来，顺序不能换
+可以加where筛选，加order by排序
+jar包8.0.15
